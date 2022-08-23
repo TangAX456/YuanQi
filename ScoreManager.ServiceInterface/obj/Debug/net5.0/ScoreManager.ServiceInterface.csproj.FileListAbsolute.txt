@@ -1,0 +1,15 @@
+F:\ScoreManager\ScoreManager.ServiceInterface\bin\Debug\net5.0\ScoreManager.ServiceInterface.deps.json
+F:\ScoreManager\ScoreManager.ServiceInterface\bin\Debug\net5.0\ScoreManager.ServiceInterface.dll
+F:\ScoreManager\ScoreManager.ServiceInterface\bin\Debug\net5.0\ScoreManager.ServiceInterface.pdb
+F:\ScoreManager\ScoreManager.ServiceInterface\bin\Debug\net5.0\ScoreManager.Model.dll
+F:\ScoreManager\ScoreManager.ServiceInterface\bin\Debug\net5.0\ScoreManager.Model.pdb
+F:\ScoreManager\ScoreManager.ServiceInterface\obj\Debug\net5.0\ScoreManager.ServiceInterface.csproj.AssemblyReference.cache
+F:\ScoreManager\ScoreManager.ServiceInterface\obj\Debug\net5.0\ScoreManager.ServiceInterface.GeneratedMSBuildEditorConfig.editorconfig
+F:\ScoreManager\ScoreManager.ServiceInterface\obj\Debug\net5.0\ScoreManager.ServiceInterface.AssemblyInfoInputs.cache
+F:\ScoreManager\ScoreManager.ServiceInterface\obj\Debug\net5.0\ScoreManager.ServiceInterface.AssemblyInfo.cs
+F:\ScoreManager\ScoreManager.ServiceInterface\obj\Debug\net5.0\ScoreManager.ServiceInterface.csproj.CoreCompileInputs.cache
+F:\ScoreManager\ScoreManager.ServiceInterface\obj\Debug\net5.0\ScoreManager.ServiceInterface.csproj.CopyComplete
+F:\ScoreManager\ScoreManager.ServiceInterface\obj\Debug\net5.0\ScoreManager.ServiceInterface.dll
+F:\ScoreManager\ScoreManager.ServiceInterface\obj\Debug\net5.0\refint\ScoreManager.ServiceInterface.dll
+F:\ScoreManager\ScoreManager.ServiceInterface\obj\Debug\net5.0\ScoreManager.ServiceInterface.pdb
+F:\ScoreManager\ScoreManager.ServiceInterface\obj\Debug\net5.0\ref\ScoreManager.ServiceInterface.dll

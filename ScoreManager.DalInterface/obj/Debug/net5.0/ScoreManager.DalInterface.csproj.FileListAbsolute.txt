@@ -1,0 +1,15 @@
+F:\ScoreManager\ScoreManager.DalInterface\bin\Debug\net5.0\ScoreManager.DalInterface.deps.json
+F:\ScoreManager\ScoreManager.DalInterface\bin\Debug\net5.0\ScoreManager.DalInterface.dll
+F:\ScoreManager\ScoreManager.DalInterface\bin\Debug\net5.0\ScoreManager.DalInterface.pdb
+F:\ScoreManager\ScoreManager.DalInterface\bin\Debug\net5.0\ScoreManager.Model.dll
+F:\ScoreManager\ScoreManager.DalInterface\bin\Debug\net5.0\ScoreManager.Model.pdb
+F:\ScoreManager\ScoreManager.DalInterface\obj\Debug\net5.0\ScoreManager.DalInterface.csproj.AssemblyReference.cache
+F:\ScoreManager\ScoreManager.DalInterface\obj\Debug\net5.0\ScoreManager.DalInterface.GeneratedMSBuildEditorConfig.editorconfig
+F:\ScoreManager\ScoreManager.DalInterface\obj\Debug\net5.0\ScoreManager.DalInterface.AssemblyInfoInputs.cache
+F:\ScoreManager\ScoreManager.DalInterface\obj\Debug\net5.0\ScoreManager.DalInterface.AssemblyInfo.cs
+F:\ScoreManager\ScoreManager.DalInterface\obj\Debug\net5.0\ScoreManager.DalInterface.csproj.CoreCompileInputs.cache
+F:\ScoreManager\ScoreManager.DalInterface\obj\Debug\net5.0\ScoreManager.DalInterface.csproj.CopyComplete
+F:\ScoreManager\ScoreManager.DalInterface\obj\Debug\net5.0\ScoreManager.DalInterface.dll
+F:\ScoreManager\ScoreManager.DalInterface\obj\Debug\net5.0\refint\ScoreManager.DalInterface.dll
+F:\ScoreManager\ScoreManager.DalInterface\obj\Debug\net5.0\ScoreManager.DalInterface.pdb
+F:\ScoreManager\ScoreManager.DalInterface\obj\Debug\net5.0\ref\ScoreManager.DalInterface.dll
